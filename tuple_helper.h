@@ -1,6 +1,7 @@
 #pragma once
 
 #include <iostream>
+#include <tuple>
 
 template <typename T>
 auto explode(T&& t, char)
